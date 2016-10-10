@@ -55,4 +55,11 @@
         </resource>
     </resources>
  </build>
+  <servers>
+	  <server>
+	      <id>nexus</id>
+	      <username>alexey</username>
+	      <password>ParoleParole321</password>
+	  </server>
+ </servers>
 </project>
